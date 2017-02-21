@@ -1,3 +1,4 @@
+#Making a change to a file again
 class CreateUsers < ActiveRecord::Migration
   def self.up
     create_table :users do |t|
